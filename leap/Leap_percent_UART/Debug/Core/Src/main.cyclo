@@ -1,0 +1,14 @@
+../Core/Src/main.c:88:6:SetServoAngle	4
+../Core/Src/main.c:99:5:main	2
+../Core/Src/main.c:165:6:SystemClock_Config	3
+../Core/Src/main.c:213:13:MX_TIM1_Init	5
+../Core/Src/main.c:278:13:MX_TIM3_Init	5
+../Core/Src/main.c:331:13:MX_TIM4_Init	4
+../Core/Src/main.c:380:13:MX_TIM14_Init	4
+../Core/Src/main.c:426:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:459:13:MX_GPIO_Init	1
+../Core/Src/main.c:504:6:HAL_UART_RxCpltCallback	5
+../Core/Src/main.c:519:6:ParseAndSetServoAngles	9
+../Core/Src/main.c:550:6:Servo_Init	1
+../Core/Src/main.c:560:6:Servo_SetAngle	4
+../Core/Src/main.c:571:6:Error_Handler	1
